@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'UX MBA',
+  title: 'UX MBA for better Product Design',
   author: 'Richard Simms',
-  headerTitle: 'UX MBA for better Product Design',
+  headerTitle: 'UX MBA',
   description: 'Business design for the UX and Product Designer',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -11,10 +11,10 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'richard@rsimms.com',
-  github: 'https://github.com/richardsimms',
+  //github: 'https://github.com/richardsimms',
   twitter: 'https://twitter.com/uxmba',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  //facebook: 'https://facebook.com',
+  //youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/richardsimms',
   locale: 'en-US',
   analytics: {
