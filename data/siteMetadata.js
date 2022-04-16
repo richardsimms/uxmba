@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'UX MBA for better Product Design',
+  title: 'UX MBA',
   author: 'Richard Simms',
   headerTitle: 'UX MBA',
   description: 'Business design for the UX and Product Designer',
