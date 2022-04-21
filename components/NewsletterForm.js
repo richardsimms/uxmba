@@ -37,7 +37,6 @@ const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
   return (
     <div>
       <div className="pb-1 text-lg font-semibold text-gray-800 dark:text-gray-100">{title}</div>
-      <iframe src="https://uxmba.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
       <form className="flex flex-col sm:flex-row" onSubmit={subscribe}>
         <div>
           <label className="sr-only" htmlFor="email-input">
