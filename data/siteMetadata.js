@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'UX MBA',
   author: 'Richard Simms',
   headerTitle: 'UX MBA',
-  description: 'Business design for the UX and Product Designer',
+  description: 'Connecting the dots, between business outcomes and customers experience, to deliver impactful design work.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
