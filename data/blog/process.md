@@ -12,4 +12,4 @@ images: ['/static/images/Process.jpg']
 
 ![Process](/static/images/Process.jpg)
 
-When you start with ideas, solution or technologies – you’re starting with limiting constraints. Start by talking to customers and relevant stakeholders to uncover insights that will lead to divergent solutions. And, stack multiple bets against the [inconvenient][https://svpg.com/the-inconvenient-truth-about-product/] truth that at least half the ideas are not going to work. So don’t start with converged thinking.
+When you start with ideas, solution or technologies – you’re starting with limiting constraints. Start by talking to customers and relevant stakeholders to uncover insights that will lead to divergent solutions. And, stack multiple bets against the [inconvenient](https://svpg.com/the-inconvenient-truth-about-product/) truth that at least half the ideas are not going to work. So don’t start with converged thinking.
